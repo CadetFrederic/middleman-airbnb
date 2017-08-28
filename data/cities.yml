@@ -1,0 +1,12 @@
+barcelona:
+  name: "Barcelona"
+  address: "Carrer mas grassot..."
+  last_seats: true
+paris:
+  name: "Paris"
+  address: "Somewhere in Paris..."
+  last_seats: false
+berlin:
+  name: "berlin"
+  address: "Somewhere in berlin..."
+  last_seats: false
